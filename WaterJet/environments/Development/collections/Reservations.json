@@ -1,0 +1,6 @@
+[
+  { "Date": "2018-07-24", "Product Reserved": "Dashing Dragon", "Customer Name": "George Gates", "Pickup": true, "Return": false, "Reservation Creator": "bob.baker", "Notes": "" },
+  { "Date": "2018-07-24", "Product Reserved": "Fierce Fish", "Customer Name": "Hannah Harris", "Pickup": true, "Return": true, "Reservation Creator": "bob.baker", "Notes": "Half day rental" },
+  { "Date": "2018-07-25", "Product Reserved": "Fierce Fish", "Customer Name": "Ives Irving", "Pickup": false, "Return": false, "Reservation Creator": "clara.cohen", "Notes": "Provide maps of Adventure Bay" },
+  { "Date": "2018-07-26", "Product Reserved": "Dashing Dragon", "Customer Name": "Jenna Jacques", "Pickup": false, "Return": false, "Reservation Creator": "anna.archer", "Notes": "Bought learn-to-ride package" }
+]

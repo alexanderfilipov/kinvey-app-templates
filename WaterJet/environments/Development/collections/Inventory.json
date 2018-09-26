@@ -1,0 +1,5 @@
+[
+  { "Name": "Dashing Dragon", "Model": "Red Rover",     "Price": 400, "Dates Reserved": ["2018-07-24", "2018-07-26"], "Image": "http://example.com" },
+  { "Name": "Easy Elephant",  "Model": "Orange Opera",  "Price": 200, "Dates Reserved": [],                           "Image": "http://example.com" },
+  { "Name": "Fierce Fish",    "Model": "Yellow Yapper", "Price": 320, "Dates Reserved": ["2018-07-24", "2018-07-25"], "Image": "http://example.com" }
+]

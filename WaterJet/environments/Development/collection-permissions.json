@@ -1,0 +1,6 @@
+[
+  {"name": "Inventory", "permissions":{"create":[{"roleId":"supervisor","type":"always"}],"read":[{"roleId":"employee","type":"always"}],"update":[{"roleId":"supervisor","type":"always"}],"delete":[{"roleId":"supervisor","type":"always"}]}},
+  {"name": "Reservations", "permissions":{"create":[{"roleId":"employee","type":"always"}],"read":[{"roleId":"employee","type":"always"}],"update":[{"roleId":"supervisor","type":"always"},{"roleId":"employee","type":"entity"}],"delete":[{"roleId":"supervisor","type":"always"},{"roleId":"employee","type":"entity"}]}},
+  {"name": "RepairTickets", "permissions":{"create":[{"roleId":"employee","type":"always"}],"read":[{"roleId":"employee","type":"always"},{"roleId":"contractor","type":"entity"}],"update":[{"roleId":"employee","type":"always"},{"roleId":"contractor","type":"entity"}],"delete":[{"roleId":"supervisor","type":"always"}]}},
+  {"name": "Components", "permissions":{"read":[{"roleId":"contractor","type":"always"}]}}
+]
